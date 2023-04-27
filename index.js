@@ -1,3 +1,20 @@
+const express = require('express')
+const app = express()
+const port = 5500
+
+app.listen(port, () => {
+  console.log(`Server running at http://localhost:${port}`)
+})
+
+try {
+  const module = require('/home/pheinjeri/Development/code/Vittles-Food-Ordering-App/server.js');
+  // your code using the module
+} catch (error) {
+  console.error(error);
+}
+
+
+
 const navbar = document.querySelector(".navbar");
 const hamburger = document.querySelector(".hamburger");
 
