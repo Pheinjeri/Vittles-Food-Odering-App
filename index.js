@@ -16,8 +16,8 @@
  // console.log(`Server running at http://localhost:${5500}`)
 })
 
-try {
-  const module = require('/home/pheinjeri/Development/code/Vittles-Food-Ordering-App/server.js');
+//try {
+  //const module = require('/home/pheinjeri/Development/code/Vittles-Food-Ordering-App/server.js');
   // your code using the module
 } catch (error) {
   console.error(error);
