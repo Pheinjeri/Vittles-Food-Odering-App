@@ -19,9 +19,11 @@ This app will contain 5 sections:
     
     **Deliver the products**
     Here at Vittles, we consider every delivery personal, therefore we offer a courier whom you can trust and the option to give delivery specifications while observing COVID-19 protocols
-    
-    
-    
+   
+ The languages used to code are:
+          1) CSS
+          2) HTML
+          3) Javascript
     
     
     
