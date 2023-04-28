@@ -19,8 +19,8 @@
 //try {
   //const module = require('/home/pheinjeri/Development/code/Vittles-Food-Ordering-App/server.js');
   
-} catch (error) {
-  console.error(error);
+//} catch (error) {
+  //console.error(error);
 }
 
 
