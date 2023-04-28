@@ -2,9 +2,9 @@
 // const app = express()
 
 // const myExpress = require('express');
-const app = myExpress();
+//const app = myExpress();
 
-const port = 5500
+//const port = 5500
 
 
 app.get('/', (req, res) => {
