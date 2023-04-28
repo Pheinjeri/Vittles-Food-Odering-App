@@ -24,7 +24,12 @@ This app will contain 5 sections:
           1) CSS
           2) HTML
           3) Javascript
-    
+          
+ The objectives for the app are:         
+          
+1) Be available 24/7 to offer services different locations within 100km diameter of the selected eateries
+2) Provide comfort of getting your food from the comfort of your home to your workplace or even for event
+3) Strives to deal with the customers needs at their convenience while offering faster services and different varieties
     
     
     
