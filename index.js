@@ -2,8 +2,14 @@ const express = require('express')
 const app = express()
 const port = 5500
 
-app.listen(port, () => {
-  console.log(`Server running at http://localhost:${port}`)
+
+app.get('/', (req, res) => {
+  res.json({ message: 'Empty!' });
+});
+
+
+app.listen(5500, () => {
+  console.log(`Server running at http://localhost:${5500}`)
 })
 
 try {
