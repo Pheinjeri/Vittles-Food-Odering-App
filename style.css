@@ -405,7 +405,7 @@ section {
     margin-right: 3rem;
   }
   .footer .top {
-    background-color: var(--footer-yellow);
+    background-color: var(--footer-cadmiu-yellow);
     padding: 10rem 9%;
     display: grid;
     grid-template-columns: 1fr 2fr;
