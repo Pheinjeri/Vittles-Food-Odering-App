@@ -7,8 +7,8 @@
 //const port = 5500
 
 
-app.get('/', (req, res) => {
-  res.json({ message: 'Empty!' });
+//app.get('/', (req, res) => {
+  //res.json({ message: 'Empty!' });
 });
 
 
